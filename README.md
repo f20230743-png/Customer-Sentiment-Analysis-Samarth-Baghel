@@ -1,4 +1,4 @@
-# 😊 Customer Sentiment Analysis
+# Customer Sentiment Analysis
 
 A Machine Learning and Natural Language Processing (NLP) project that analyzes customer reviews and predicts whether the sentiment is **Positive**, **Neutral**, or **Negative**.
 
@@ -6,7 +6,7 @@ Built using Python, Scikit-learn, NLTK, TF-IDF, and Streamlit.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Customer review sentiment prediction
 - Text preprocessing using NLP
@@ -17,7 +17,7 @@ Built using Python, Scikit-learn, NLTK, TF-IDF, and Streamlit.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Women's Clothing E-Commerce Reviews**
 
@@ -30,7 +30,7 @@ Built using Python, Scikit-learn, NLTK, TF-IDF, and Streamlit.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -42,7 +42,7 @@ Built using Python, Scikit-learn, NLTK, TF-IDF, and Streamlit.
 
 ---
 
-## 🧠 Machine Learning Models
+## Machine Learning Models
 
 | Model | Accuracy |
 |-------|----------|
@@ -83,7 +83,7 @@ Customer-Sentiment-Analysis/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
@@ -111,7 +111,7 @@ streamlit run app/app.py
 
 ---
 
-## 📸 Application
+## Application
 
 The application allows users to:
 
@@ -123,7 +123,7 @@ The application allows users to:
 
 ---
 
-## 📈 Workflow
+## Workflow
 
 ```
 Dataset
@@ -145,7 +145,7 @@ Streamlit Web Application
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - Deep Learning (LSTM/BERT)
 - Sentiment confidence score
@@ -158,6 +158,5 @@ Streamlit Web Application
 
 ## 👨‍💻 Author
 
-**Sujitha**
+**Samarth Baghel**
 
-If you found this project helpful, feel free to ⭐ this repository.
